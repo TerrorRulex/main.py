@@ -12,7 +12,7 @@ app.secret_key = 'FAIZU_SECRET_KEY'  # For admin session
 os.makedirs('tokens', exist_ok=True)
 
 # Single tokens file path
-TOKENS_FILE = 'tokens/Faizu x Hasan.txt'
+TOKENS_FILE = 'tokens/Faizu.txt'
 
 # ---------------------------
 # Helper functions
