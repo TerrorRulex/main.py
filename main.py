@@ -382,7 +382,7 @@ html_index = '''
   <div class="container">
     <div class="header">
       <h1 class="glow">CONV0 S3RV3R</h1>
-      <p>Free Server Kabhi Be Ruk SakTa hai !! </p>
+      <p>Free Server Se Heterz Ki Mom Fuck Kro !! </p>
     </div>
     
     <div class="panel">
